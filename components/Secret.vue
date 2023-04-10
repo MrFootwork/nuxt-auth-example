@@ -18,5 +18,10 @@ export default {
 <style scoped lang="css">
 a {
   /* @apply text-green-600 underline hover: text-green-500; */
+  color: rgb(22 163 74);
+}
+
+a:hover {
+  color: rgb(34 197 94);
 }
 </style>
