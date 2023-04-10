@@ -15,8 +15,8 @@ export default {
   </div>
 </template>
 
-<style scoped lang="scss">
+<style scoped lang="css">
 a {
-  // @apply text-green-600 underline hover: text-green-500;
+  /* @apply text-green-600 underline hover: text-green-500; */
 }
 </style>
