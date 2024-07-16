@@ -4,7 +4,7 @@ export default defineNuxtConfig({
 		prerender: {
 			autoSubfolderIndex: false
 		}
-  	}
+  	},
 	css: ['@fortawesome/fontawesome-free/css/all.min.css'],
 	modules: ['@nuxtjs/tailwindcss', '@sidebase/nuxt-auth'],
 	auth: {
